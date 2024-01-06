@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Aadarsh Gupta.
+Created by Aadarsh Gupta
